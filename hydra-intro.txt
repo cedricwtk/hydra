@@ -1,0 +1,8 @@
+Hydra is a personnal project I am intenting in order to gain more experience in the field of back-end development and front-end development
+I am hosting a cloud server in which I have ubuntu 18 installed. 
+I have set up 2 virtualhosts for 2 different domains on the same server, same ip adress
+I am going to create 2 different websites with 2 different ways:
+  1. Ruby On Rails
+  2. TBD
+  
+  
